@@ -1,6 +1,6 @@
 html,
 body {
-background-image: url("https://raw.githack.com/lirinal107/-2/main/photo_5368818603471347115_y.jpg") ;
+background-image: url("https://raw.githack.com/lirinal107/-2/main/photo_5368818603471347115_y%20(1).jpg") ;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -46,7 +46,7 @@ background-image: url("https://raw.githack.com/lirinal107/-2/main/ajy%20,jhlj.jp
   
 .player input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none !important;
-  background: #FFE4E1;
+  background: #1E90FF;
   height: 5px;
   width: 5px;
   border-radius: 50%;
